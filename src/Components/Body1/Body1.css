@@ -1,0 +1,50 @@
+.container2{
+    width:100%;
+    column-gap: 20%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 4%;
+}
+
+.bodyheading{
+    display: flex;
+    
+}
+
+.headingh1{
+    color: rgb(59, 10, 105);
+    margin-left: 5%;
+}
+
+.div1{
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.btn3{
+    background-color: green;
+    color: white;
+}
+
+.div2{
+    justify-content:space-between;
+    margin-top: 5%;
+}
+
+.list{
+    column-gap: 20%;
+    margin-top: 5%;
+    display: flex;
+    justify-content: space-between;
+    justify-items:center;
+}
+
+.btns1 button{
+    width: 170%;
+    height: 30%;
+    justify-content:space-between;
+    color: black;
+    border-color: orange;
+    font-weight: lighter;
+}

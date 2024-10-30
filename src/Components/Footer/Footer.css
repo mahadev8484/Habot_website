@@ -1,0 +1,53 @@
+.logo2{
+    height: 50%;
+    width: 30%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.owner{
+    font-size:large;
+    color: aliceblue;
+    font-weight: lighter;
+    margin-left: 8%;
+    margin-top: 1%;
+}
+
+
+.footer1{
+    background: rgb(3, 3, 88);
+    display: flex;
+    
+}
+
+.footer2{
+    list-style: none;
+    display: flex;
+    margin-left: -35%;
+    margin-top: 3%;
+}
+
+.footer3{
+    margin-top: 6%;
+    margin-left: 28%;
+    display: flex;
+    width: 1%;
+    height: 1%;
+}
+
+.social{
+    height: 50px;
+    width: 50px;
+}
+
+.fbold{
+    color: aliceblue;
+    font-weight: bold;
+    font-size: large;
+
+}
+
+.fnormal{
+    color: aliceblue;
+    font-weight: lighter;
+}

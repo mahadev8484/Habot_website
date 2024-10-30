@@ -1,0 +1,47 @@
+.header{
+    width: 100%;
+    height:100vh;
+    background: linear-gradient(rgba(8,0,58,0.7),rgba(8,0,58,0.7)), url('../../assets/city.jpg');
+    background-repeat: no-repeat;
+    margin-top: 0%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.h12{
+    font-weight: lighter;
+}
+
+.Header-Text{
+    text-align: center;
+    color: white;
+
+}
+
+.form1{
+    /* background-image: url('../../assets/location.png'); */
+    justify-content:space-between ;
+    padding: 10%;
+    align-items:normal;;
+}
+
+.form2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn2{
+    color: white;
+    background-color: green;
+    text-decoration: solid;
+    border-radius: 0%;
+}
+
+a:link {
+    color:white;
+    background-color: transparent;
+    text-decoration: underline;
+  }

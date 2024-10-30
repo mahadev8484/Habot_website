@@ -1,0 +1,28 @@
+.middle2{
+    margin-top: 2%;
+    justify-items: center;
+}
+
+.boxes{
+    display: flex;
+    
+}
+
+.box1{
+    height: 210px;
+    width: 340px;
+    background-color: rgb(135, 247, 247);
+    text-align: center;
+}
+
+.box2{
+    height: 210px;
+    width: 340px;
+    background-color:whit;
+    text-align: center;
+}
+
+.icons{
+    justify-items: center;
+    height: 100px;
+}

@@ -1,0 +1,35 @@
+.card1{
+    background: rgb(3, 3, 88);
+    flex-direction: row;
+    margin: 80px auto;
+    width: 90%;
+    display: flex;
+    color: rgb(5, 5, 75);
+}
+
+.ytphoto{
+    margin-top: 4%;
+    margin-left: 4%;
+    height: 70%;
+    width: 40%;
+}
+
+.tbs{
+    color: aliceblue;
+    font-size: smaller;
+    margin-left: -20%;
+    margin-right: 20%;
+    margin-top: 2%;
+}
+
+.h33{
+    margin-top: 15%;
+    font-size: large;
+}
+
+/* form{
+    margin: 80px auto;
+    width: 90%;
+    display: flex;
+    color: rgb(5, 5, 75);
+} */

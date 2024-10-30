@@ -1,0 +1,23 @@
+.middle{
+    height: 120px;
+    display: flex;
+    justify-content: center;
+    color: black;
+    column-gap: 25%;
+    background-color: rgb(135, 247, 247);
+}
+
+.hh{
+    margin-top: 3%;
+    margin-left: 2%;
+    width: 50%;
+}
+
+.bb{
+  margin-top: 2%;
+  width: 10%;
+  height: 40%;
+  background-color: rgb(230, 90, 10);
+  color: white;
+  border-width: 0cap;
+}
